@@ -1,0 +1,105 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pretty.com" resolutions="1x" timestamp="1528293367592">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3963587171" ref="index"/>
+    <file name="nomq_index.css" crc="4054511285" ref="index"/>
+    <file name="prettystudio_ch.css" crc="4153409365" ref="prettystudio.ch"/>
+    <file name="nomq_prettystudio_ch.css" crc="326827474" ref="prettystudio.ch"/>
+    <file name="loading_en.css" crc="3770869094" ref="loading.en"/>
+    <file name="loading_ch.css" crc="4048793945" ref="loading.ch"/>
+  </folder>
+  <folder name="fonts">
+    <file name="msyh_0.woff" crc="4127178693"/>
+    <file name="msyh_0.eot" crc="442355269"/>
+    <file name="msyhl_0.woff" crc="300733853"/>
+    <file name="msyhl_0.eot" crc="498131901"/>
+    <file name="msyhbd_0.woff" crc="249094002"/>
+    <file name="msyhbd_0.eot" crc="4276272530"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+    <file name="museutils.js" crc="3803043152" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+    <file name="whatinput.js" crc="86476730" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+    <file name="museconfig.js" crc="380897831" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:prettystudio.ch"/>
+    <file name="require.js" crc="4157109226" ref="index:prettystudio.ch:loading.ch:loading.en"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4153086447" ref="index"/>
+    <file name="prettystudio-3.jpg" crc="4166454471" seo="true" ref="index:prettystudio.ch">
+      <caption webpage="index" alt=""/>
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-1.jpg" crc="355112111" seo="true" ref="index:prettystudio.ch">
+      <caption webpage="index" alt=""/>
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-2.jpg" crc="3912983073" seo="true" ref="index:prettystudio.ch">
+      <caption webpage="index" alt=""/>
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u280.jpg" crc="3869067266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u303.jpg" crc="3869067266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u356.jpg" crc="3869067266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u390.jpg" crc="3869067266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-1267x197.jpg" crc="4159002135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u2802.jpg" crc="290402411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-2257x190.jpg" crc="121260827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u3032.jpg" crc="290402411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-3169x171.jpg" crc="3787994609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u3562.jpg" crc="290402411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u3902.jpg" crc="290402411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:prettystudio.ch"/>
+    <file name="prettystudio-logo-crop-u982.jpg" crc="3869067266" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u990.jpg" crc="3869067266" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u974.jpg" crc="3869067266" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u963.jpg" crc="3869067266" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u9822.jpg" crc="290402411" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u9902.jpg" crc="290402411" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u9742.jpg" crc="290402411" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+    <file name="prettystudio-logo-crop-u9632.jpg" crc="290402411" seo="true" ref="prettystudio.ch">
+      <caption webpage="prettystudio.ch" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3876337343" seo="true" mt="1528293225159" redirect="true"/>
+  <file name="prettystudio.ch.html" crc="336419890" seo="true" mt="1528293225159" redirect="true"/>
+  <file name="loading.ch.html" crc="4101680931" seo="true" mt="1528293225159" redirect="true"/>
+  <file name="loading.en.html" crc="348954848" seo="true" mt="1528293225159" redirect="true"/>
+</manifest>
